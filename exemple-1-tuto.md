@@ -3,7 +3,7 @@ clavier: true
 gestionGrosMots: true
 ---
 
-# Titre du chatbot
+# Titre du chatbot pour le chat-bot
 
 Message initial
 
